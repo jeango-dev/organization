@@ -4,7 +4,7 @@ import header from '../../images/header.png';
 function Header() {
   return (
     <header className='header'>
-      <img src={header} alt='org' />
+      <img src={header} alt='organization' />
     </header>
   );
 }
